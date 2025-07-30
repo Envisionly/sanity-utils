@@ -1,3 +1,8 @@
+## 1.3.0 (2025-07-30)
+
+* chore: Merge pull request #3 from Envisionly/Adding-tests ([83a754e](https://github.com/Envisionly/sanity-utils/commit/83a754e)), closes [#3](https://github.com/Envisionly/sanity-utils/issues/3)
+* feat: Added vitest ([fbe5434](https://github.com/Envisionly/sanity-utils/commit/fbe5434))
+
 ## <small>1.2.3 (2025-07-30)</small>
 
 * Merge branch 'main' of https://github.com/Envisionly/sanity-utils ([6db01a8](https://github.com/Envisionly/sanity-utils/commit/6db01a8))
