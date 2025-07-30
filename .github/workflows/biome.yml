@@ -16,6 +16,6 @@ jobs:
       - name: Install dependencies
         run: bun install
       - name: Run Biome Lint
-        run: bunx biome lint .
+        run: bun run lint
       - name: Run Biome Format (check only)
-        run: bunx biome format . --write=false
+        run: bun run format-ci
