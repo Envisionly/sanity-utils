@@ -25,7 +25,7 @@ export const socialOptions: Social[] = [
 	{ label: "YouTube", value: "youtube" },
 ];
 
-export function getSocialLabelByValue(value: string): string {
+export function getSocialLabelByValue(value: string): string | undefined {
 	const social = socialOptions.find((option) => option.value === value);
-	return social ? social.label : "Unknown";
+	return social ? social.label : undefined;
 }
