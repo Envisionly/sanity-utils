@@ -1,2 +1,2 @@
 // Export all utilities from this package
-export * from "./socialOptions";
+export * from "./socialOptions.js";

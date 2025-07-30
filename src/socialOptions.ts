@@ -1,4 +1,3 @@
-//
 export type Social = {
 	label: string;
 	value: string;
