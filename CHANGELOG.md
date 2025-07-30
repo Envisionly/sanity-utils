@@ -1,3 +1,8 @@
+## <small>1.2.3 (2025-07-30)</small>
+
+* Merge branch 'main' of https://github.com/Envisionly/sanity-utils ([6db01a8](https://github.com/Envisionly/sanity-utils/commit/6db01a8))
+* fix: Made package a module ([685f728](https://github.com/Envisionly/sanity-utils/commit/685f728))
+
 ## <small>1.2.2 (2025-07-30)</small>
 
 * Merge branch 'main' of https://github.com/Envisionly/sanity-utils ([297db94](https://github.com/Envisionly/sanity-utils/commit/297db94))
