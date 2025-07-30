@@ -1,3 +1,8 @@
+## 1.2.0 (2025-07-30)
+
+* Merge pull request #2 from Envisionly/Create-getSocialLabelByValue-function ([c020cad](https://github.com/Envisionly/sanity-utils/commit/c020cad)), closes [#2](https://github.com/Envisionly/sanity-utils/issues/2)
+* feat: Added getSocialLabelByValue function ([1d832be](https://github.com/Envisionly/sanity-utils/commit/1d832be))
+
 ## 1.1.0 (2025-07-30)
 
 * Merge pull request #1 from Envisionly/Adding-biome ([aa130e2](https://github.com/Envisionly/sanity-utils/commit/aa130e2)), closes [#1](https://github.com/Envisionly/sanity-utils/issues/1)
