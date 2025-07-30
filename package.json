@@ -8,10 +8,10 @@
 		"dist"
 	],
 	"scripts": {
-	"build": "tsc",
-	"prepare": "tsc",
-	"prepublishOnly": "npm run build",
-	"release": "semantic-release"
+		"build": "tsc",
+		"prepare": "tsc",
+		"prepublishOnly": "bun run build",
+		"release": "semantic-release"
 	},
 	"author": "Envisionly",
 	"license": "MIT",
