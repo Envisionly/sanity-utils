@@ -1,3 +1,7 @@
+## <small>1.3.1 (2025-07-30)</small>
+
+* fix: Added .js extention to exported imports ([8a069eb](https://github.com/Envisionly/sanity-utils/commit/8a069eb))
+
 ## 1.3.0 (2025-07-30)
 
 * chore: Merge pull request #3 from Envisionly/Adding-tests ([83a754e](https://github.com/Envisionly/sanity-utils/commit/83a754e)), closes [#3](https://github.com/Envisionly/sanity-utils/issues/3)
