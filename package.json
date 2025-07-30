@@ -1,0 +1,30 @@
+{
+	"name": "sanity-utils",
+	"version": "0.1.0",
+	"description": "General-purpose TypeScript utilities for use across projects.",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"build": "tsc",
+		"prepublishOnly": "npm run build"
+	},
+	"author": "Envisionly",
+	"license": "MIT",
+	"devDependencies": {
+		"typescript": "^5.0.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Envisionly/sanity-utils.git"
+	},
+	"keywords": [
+		"typescript",
+		"utilities",
+		"shared",
+		"npm",
+		"utils"
+	]
+}
