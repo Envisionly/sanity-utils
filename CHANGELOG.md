@@ -1,3 +1,11 @@
+## 1.1.0 (2025-07-30)
+
+* Merge pull request #1 from Envisionly/Adding-biome ([aa130e2](https://github.com/Envisionly/sanity-utils/commit/aa130e2)), closes [#1](https://github.com/Envisionly/sanity-utils/issues/1)
+* fix: Biome now respects .gitignore ([33bd9e8](https://github.com/Envisionly/sanity-utils/commit/33bd9e8))
+* fix: Updated biome workflow ([1f91eea](https://github.com/Envisionly/sanity-utils/commit/1f91eea))
+* chore: Removed redundant files ([72984d8](https://github.com/Envisionly/sanity-utils/commit/72984d8))
+* feat: Added biome ([0e49a85](https://github.com/Envisionly/sanity-utils/commit/0e49a85))
+
 ## 1.0.0 (2025-07-30)
 
 * fix: changed to using bun in release workflow ([a33e879](https://github.com/Envisionly/sanity-utils/commit/a33e879))
