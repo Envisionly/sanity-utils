@@ -1,3 +1,7 @@
+## <small>1.2.1 (2025-07-30)</small>
+
+* fix: trying to fix import issues ([e00bd51](https://github.com/Envisionly/sanity-utils/commit/e00bd51))
+
 ## 1.2.0 (2025-07-30)
 
 * Merge pull request #2 from Envisionly/Create-getSocialLabelByValue-function ([c020cad](https://github.com/Envisionly/sanity-utils/commit/c020cad)), closes [#2](https://github.com/Envisionly/sanity-utils/issues/2)
