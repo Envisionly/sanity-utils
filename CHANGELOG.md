@@ -1,3 +1,8 @@
+## <small>1.2.2 (2025-07-30)</small>
+
+* Merge branch 'main' of https://github.com/Envisionly/sanity-utils ([297db94](https://github.com/Envisionly/sanity-utils/commit/297db94))
+* fix: Added exports ([0bb943c](https://github.com/Envisionly/sanity-utils/commit/0bb943c))
+
 ## <small>1.2.1 (2025-07-30)</small>
 
 * fix: trying to fix import issues ([e00bd51](https://github.com/Envisionly/sanity-utils/commit/e00bd51))
